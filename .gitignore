@@ -112,3 +112,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity Pipeline onboarding config (contains a bearer token)
+pipeline-onboard.config
+*.config.bak
